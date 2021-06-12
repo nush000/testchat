@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705493036013",
+    "project_id": "testchat-3620c",
+    "storage_bucket": "testchat-3620c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705493036013:android:4e8c122cf2cbd10c9555e4",
+        "android_client_info": {
+          "package_name": "nush.testchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705493036013-vnci9dfmt15rsrsr651clobtm4mandf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nush.testchat",
+            "certificate_hash": "d4ecc4fc7e53d3fc31b66434dcaa67b7fcc48602"
+          }
+        },
+        {
+          "client_id": "705493036013-l8m9460t4nb1knelmjehg4i1h36d3b0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5k_MaHdPHT3dALHU-eOsaBlHXb8kQXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705493036013-l8m9460t4nb1knelmjehg4i1h36d3b0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
